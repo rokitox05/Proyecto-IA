@@ -3,7 +3,7 @@
 
 ## ¡Bienvenidos a nuestro proyecto!
 
-<img src="https://github.com/rokitox05/Proyecto-IA/blob/main/bannerchido.png"  width="1000px" height="200px">
+<img src="https://github.com/rokitox05/Proyecto-IA/blob/main/bannerchido.png">
 
 
 ## Autores
