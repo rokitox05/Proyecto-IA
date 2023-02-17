@@ -15,6 +15,9 @@ Juan Sebastian Espinosa Espinosa - 2183184
 ## Objetivo
 El objetivo de nuestro proyecto, es analizar un dataset por medio de la Inteligencia Artificial, y basandonos en algunos criterios, intentar predecir si un videojuego "nuevo" insertado con cierta informacion pueda conseguir buen numero de ventas a nivel global.
 
+## Estimadores
+Se usaron varios estimadores en este proyecto, se usaron de clasificacion: GaussianNB, Decision Tree, Random Forest y SVC, y de regresion: Decision Tree y Random Forest.
+
 ## Dataset
 
 El dataset usado para realizar este analisis es un dataset con la venta de algunos videojuegos a lo largo de algunos años, se puede encontrar en el siguiente enlace: "https://www.kaggle.com/datasets/gregorut/videogamesales" 
@@ -26,6 +29,6 @@ El enlace al notebook de google collaboratory es el siguiente, el dataset debe e
 El enlace al video resumen del proyecto, es el siguiente:"https://youtu.be/CQnr75VZuog"
 
 ## Repositorio
-El enlace del repositorio es el siguiente: ""
+El enlace del repositorio es el siguiente: "https://github.com/rokitox05/Proyecto-IA"
 
 
