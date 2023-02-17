@@ -1,4 +1,5 @@
-# Inteligencia Artificial I 2022-2
+# Inteligencia Artificial I
+# Analisis en las ventas globales de los videojuegos - Proyecto IA
 
 ## Bienvenidos!
 
